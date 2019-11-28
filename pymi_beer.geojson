@@ -1,0 +1,243 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8432492,
+                    21.0235354
+                ]
+            },
+            "properties": {
+                "Address": "93 Trần Hưng Đạo",
+                "name": "Relax Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.809441,
+                    21.01568
+                ]
+            },
+            "properties": {
+                "Address": "68 Nguyên Hồng",
+                "name": "Xích Beer Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8115018,
+                    21.0140736
+                ]
+            },
+            "properties": {
+                "Address": "4 Vũ Ngọc Phan",
+                "name": "Legend Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8187898,
+                    21.0225943
+                ]
+            },
+            "properties": {
+                "Address": "2 Láng Hạ",
+                "name": "New Sphinx Beer Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8315492,
+                    21.0058881
+                ]
+            },
+            "properties": {
+                "Address": "Kim Liên, Đống Đa, Hanoi, Vietnam",
+                "name": "Mét Beer club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8198262,
+                    21.0238911
+                ]
+            },
+            "properties": {
+                "Address": "174 Ngọc Khánh",
+                "name": "T+ Beer Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8292778,
+                    21.0191685
+                ]
+            },
+            "properties": {
+                "Address": "1 Ô Chợ Dừa",
+                "name": "M5+ Beer Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.841593,
+                    21.024854
+                ]
+            },
+            "properties": {
+                "Address": "99 Đường Lê Duẩn",
+                "name": "iBiero Craft Beer Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8187508,
+                    21.0134269
+                ]
+            },
+            "properties": {
+                "Address": "5 Yên Lãng",
+                "name": "Zamba Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8078509,
+                    21.0329068
+                ]
+            },
+            "properties": {
+                "Address": "56 Đào Tấn",
+                "name": "Container Craft Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8204544,
+                    21.002698
+                ]
+            },
+            "properties": {
+                "Address": "397 Trường Chinh, Quận Thanh Xuân, Hà Nội",
+                "name": "GoldMalt Beer Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8189526,
+                    21.0037083
+                ]
+            },
+            "properties": {
+                "Address": "90 Đường Láng",
+                "name": "T+Beer 90 Láng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8209894,
+                    21.0087735
+                ]
+            },
+            "properties": {
+                "Address": "Tòa nhà Kinh Đô, 66 298, Tây Sơn",
+                "name": "VITAMIN BEER"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8364986,
+                    21.0103893
+                ]
+            },
+            "properties": {
+                "Address": "B4, Phạm Ngọc Thạch",
+                "name": "Vuvuzela Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8289385,
+                    20.9977935
+                ]
+            },
+            "properties": {
+                "Address": "88 Lê Trọng Tấn",
+                "name": "Nhà Hàng Beer 39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8171964,
+                    21.0145101
+                ]
+            },
+            "properties": {
+                "Address": "Tầng M Tòa nhà Sông Hồng Park View B, 165 Thái Hà",
+                "name": "Sparta Beer Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8111011,
+                    21.0186937
+                ]
+            },
+            "properties": {
+                "Address": "110 Huỳnh Thúc Kháng",
+                "name": "Ngọc Hằng Beer Restaurant"
+            }
+        }
+    ]
+}
